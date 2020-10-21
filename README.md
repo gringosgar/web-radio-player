@@ -8,4 +8,4 @@ Jah Radio Jukebox
 
 * [Heavyweight Reggae somafm](https://somafm.com/reggae/) 
 * [Riddim Lion Radio.com](https://www.riddimlionradio.com/)
-*[party vibe Reggae](https://www.partyvibe.com/reggae-radio-station/)
+* [party vibe Reggae](https://www.partyvibe.com/reggae-radio-station/)
