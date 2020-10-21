@@ -1,15 +1,15 @@
 var sources = [
-  "http://stream-dc1.radioparadise.com/aac-320", // paradise
-  "http://mp3.radiogong963.c.nmdn.net/fs_radiogongchannel5/livestream.mp3", // party gong
-  "http://ice2.somafm.com/folkfwd-128-mp3", // folk forward
-  "http://46.28.49.164:7508/stream?1489669793611" // punk fm
+  "http://ice5.somafm.com/reggae-128-mp3", // Heavyweight
+  "https://s3.radio.co/s17a162fcf/listen", // Riddim Lion 
+  "http://partyviberadio.com:8000/;listen.pls?sid=1", // pvr Reggae
+  
 ];
 
 var labels = [
-  [ "Radio Paradise", "https://www.radioparadise.com" ],
-  [ "Party Gong", "https://www.radiogong.de/"],
-  [ "SomaFM Folk Forward", "http://somafm.com/folkfwd/"],
-  [ "Punk FM", " http://www.punkfm.co.uk/"]
+  [ "Heavyweight Reggae", "https://somafm.com/reggae/" ],
+  [ "Riddim Lion Radio", "https://www.riddimlionradio.com/"],
+  [ " pvr Reggae", "https://www.partyvibe.com/reggae-radio-station/"],
+ 
 ];
 
 var playingIndex = 0; // current radio
