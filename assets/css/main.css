@@ -59,16 +59,16 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #fff;
+		color: #ffd800;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 15pt;
+		font-size: 20pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
 		line-height: 1.75em;
 	}
 
 	body {
-		background: #fff;
+		background: #000;
 		overflow: hidden;
 	}
 
@@ -80,19 +80,34 @@
 		}
 
 	a {
-		-moz-transition: border-color 0.2s ease-in-out;
-		-webkit-transition: border-color 0.2s ease-in-out;
-		-ms-transition: border-color 0.2s ease-in-out;
-		transition: border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
-		color: inherit;
+		
+		color: #006400;
 		outline: 0;
 		text-decoration: none;
+
 	}
 
 		a:hover {
 			border-color: transparent;
 		}
+
+            .button3 {
+  background-color: #030;
+  border: 1px solid#006400;
+  color: #ffef00;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 6px 6px;
+  cursor: pointer;
+border-radius:8px;
+
+}.button3:hover {
+  background-color: #3e8e41;
+  color: red;
+}  
 
 /* Icon */
 
@@ -173,7 +188,7 @@
 
 	#bg {
 	
-		background:  url("/background-wood-green-yellow-red-old-retro-vintage-style-rasta-reggae-flag_49683-3888.jpg") no-repeat center center fixed;
+		background:  url("images/background-wood-green-yellow-red-old-retro-vintage-style-rasta-reggae-flag_49683-3888.jpg") no-repeat center center fixed;
 		-webkit-background-size: cover;
 	    -moz-background-size: cover;
         -o-background-size: cover;
@@ -232,7 +247,7 @@
 		-ms-animation: overlay 0.25s 0.25s forwards;
 		animation: overlay 0.25s 0.25s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
+		background-image: url(""), url("");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
